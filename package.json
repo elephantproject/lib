@@ -1,6 +1,6 @@
 {
   "name": "elephantdexlib",
-  "version": "2.0.1",
+  "version": "4.1.0",
   "description": "📖 Solidity libraries that are shared across Elephant Dex contracts",
   "files": [
     "contracts",
