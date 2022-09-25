@@ -1,7 +1,7 @@
 {
   "name": "elephantdexlib",
-  "version": "4.1.1",
-  "description": "📖 Solidity libraries that are shared across Elephant contracts",
+  "version": "5.8.5",
+  "description": "📖 Solidity libraries that are shared across Elephantdex contracts",
   "files": [
     "contracts",
     "!contracts/test"
@@ -17,6 +17,20 @@
   "engines": {
     "node": ">=10"
   },
+  "keywords": [
+    "Elephant Dex",
+    "Elephant Swap",
+    "AMM",
+    "Cryptocurrency",
+    "Casino",
+    "Harmony",
+    "Defi",
+    "core",
+    "uniswap-v2",
+    "Elephant Project",
+    "Decentralized Token Exchange",
+    "Dex"
+  ],
   "devDependencies": {
     "@types/chai": "^4.2.11",
     "@types/mocha": "^7.0.2",
